@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.container {
+@apply mx-auto max-w-[1320px];
+}
+.navtext {
+@apply text-lg font-medium hover:font-semibold hover:bg-[#F8F8F8] text-[#202020] leading-[21.6px] py-2 px-5;
+}
