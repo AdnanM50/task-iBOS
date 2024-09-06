@@ -1,17 +1,56 @@
 [
-    {
-      "id": 1,
-      "name": "Product 1",
-      "description": "Description of Product 1",
-      "price": 100,
-      "quantity": 1
-    },
-    {
-      "id": 2,
-      "name": "Product 2",
-      "description": "Description of Product 2",
-      "price": 200,
-      "quantity": 1
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Recliner Chair Wood",
+    "currentPrice": 299.00,
+    "originalPrice": 350.00,
+    "discount": "30% OFF",
+    "description": "It has a backrest when tilted back, and often a footrest that may be extended by means of a lever.",
+    "imageUrl": "https://example.com/images/recliner-chair-wood.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Timber Ride Padded",
+    "currentPrice": 159.00,
+    "originalPrice": 180.00,
+    "discount": "30% OFF",
+    "description": "High Back Rocking Sofa Chair Portable Folding Outdoor Camping Chair.",
+    "imageUrl": "https://example.com/images/timber-ride-padded.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Colored Wooden Chair",
+    "currentPrice": 299.00,
+    "originalPrice": 350.00,
+    "discount": "30% OFF",
+    "description": "It has a backrest when tilted back, and often a footrest that may be extended by means of a lever.",
+    "imageUrl": "https://example.com/images/colored-wooden-chair.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Blank Bamboo Wicker",
+    "currentPrice": 289.00,
+    "originalPrice": 350.00,
+    "discount": "30% OFF",
+    "description": "It has a backrest when tilted back, and often a footrest that may be extended by means of a lever.",
+    "imageUrl": "https://example.com/images/blank-bamboo-wicker.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Isolated Wooden Rock",
+    "currentPrice": 150.00,
+    "originalPrice": 180.00,
+    "discount": "30% OFF",
+    "description": "It has a backrest when tilted back, and often a footrest that may be extended by means of a lever.",
+    "imageUrl": "https://example.com/images/isolated-wooden-rock.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Minimal Empty Rocking",
+    "currentPrice": 289.00,
+    "originalPrice": 350.00,
+    "discount": "30% OFF",
+    "description": "It has a backrest when tilted back, and often a footrest that may be extended by means of a lever.",
+    "imageUrl": "https://example.com/images/minimal-empty-rocking.jpg"
+  }
+]

@@ -1,6 +1,7 @@
 import React, { useContext } from "react";
 import { ProductContext } from "../../context/ProductContext";
 import { CartContext } from "../../context/CartContext";
+import { IoBagOutline } from "react-icons/io5";
 
 const Content = () => {
   const { products } = useContext(ProductContext);
@@ -15,12 +16,18 @@ const Content = () => {
             </div>
             
             <h2 className="text-xl font-semibold mb-2">{product.name}</h2>
-            <p className="text-gray-700 mb-4">{product.description}</p>
-            <p className="text-lg font-bold mb-4">${product.price}</p>
+            <div class="flex items-center space-x-2">
+  <span className="text-xl font-semibold text-black">€299.00</span>
+  <span className="text-xl text-gray-400 line-through">€350.00</span>
+  <span className="text-xl font-semibold text-red-600">30% OFF</span>
+</div>
+            <p className="text-gray-700 mb-4 line-clamp-2">{product.description}</p>
+            {/* <p className="text-lg font-bold mb-4">${product.price}</p> */}
             <button
               onClick={() => addToCart(product)}
-              className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+              className="bg-[#202020] w-full text-white px-4 py-2 flex rounded justify-center items-center"
             >
+              <IoBagOutline size={20} className="mr-2" />
               Add to Cart
             </button>
           </div>
