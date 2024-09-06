@@ -6,7 +6,7 @@
     "originalPrice": 350.00,
     "discount": "30% OFF",
     "description": "It has a backrest when tilted back, and often a footrest that may be extended by means of a lever.",
-    "imageUrl": "https://example.com/images/recliner-chair-wood.jpg"
+    "imageUrl": "./image 147.png"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "originalPrice": 180.00,
     "discount": "30% OFF",
     "description": "High Back Rocking Sofa Chair Portable Folding Outdoor Camping Chair.",
-    "imageUrl": "https://example.com/images/timber-ride-padded.jpg"
+    "imageUrl": "./image 146.png"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "originalPrice": 350.00,
     "discount": "30% OFF",
     "description": "It has a backrest when tilted back, and often a footrest that may be extended by means of a lever.",
-    "imageUrl": "https://example.com/images/colored-wooden-chair.jpg"
+    "imageUrl": "./image 148.png"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "originalPrice": 350.00,
     "discount": "30% OFF",
     "description": "It has a backrest when tilted back, and often a footrest that may be extended by means of a lever.",
-    "imageUrl": "https://example.com/images/blank-bamboo-wicker.jpg"
+    "imageUrl": "./image 149.png"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "originalPrice": 180.00,
     "discount": "30% OFF",
     "description": "It has a backrest when tilted back, and often a footrest that may be extended by means of a lever.",
-    "imageUrl": "https://example.com/images/isolated-wooden-rock.jpg"
+    "imageUrl": "./image_125-removebg-preview 1.png"
   },
   {
     "id": 6,
@@ -51,6 +51,6 @@
     "originalPrice": 350.00,
     "discount": "30% OFF",
     "description": "It has a backrest when tilted back, and often a footrest that may be extended by means of a lever.",
-    "imageUrl": "https://example.com/images/minimal-empty-rocking.jpg"
+    "imageUrl": "./rocking-chair-with-padded-seat 1.png"
   }
 ]
